@@ -1,6 +1,6 @@
 node{
    stage('SCM Checkout'){
-     git 'https://github.com/Sandeepsubramaniyan/jenkins_app.git'
+     git 'https://github.com/damodaranj/my-app.git'
    }
    stage('maven-buildstage'){
 
